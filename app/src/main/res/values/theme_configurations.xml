@@ -4,7 +4,7 @@
     <string name="ThemeAuthor">Harsh Shandilya</string>
     <!-- Your email for bug reports (DEFAULT: empty) -->
     <!--suppress CheckTagEmptyBody -->
-    <string name="ThemeAuthorEmail">msfjarvis@gmail.com</string>
+    <string name="ThemeAuthorEmail"></string>
     <!-- Theme wallpaper source (must be raw) -->
     <string name="ThemeWallpaperSource"></string>
     <!-- Do your theme support substratum legacy? -->
@@ -20,10 +20,8 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Version 4.0 changelog:\n
---- Allow changing statusbar height\n
---- Allow changing navbar height\n
---- Support Substratum Lite\n
+        <item>Version 4.0.1 changelog:\n
+--- Add more Nav Bar height\n
         </item>
     </string-array>
 </resources>
